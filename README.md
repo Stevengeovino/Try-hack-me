@@ -4,4 +4,4 @@ All about THM
 
 This repository for writeups my THM and for fun, 
 
-Just solve easy THM and still learning
+Just solve easy THM and still learning :0
